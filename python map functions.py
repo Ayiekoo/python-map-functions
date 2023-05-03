@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[2]:
-
+######################################################## TRANSFORMATION CAN BE ANY FUNCTION; lambda(), functions like pow(), len(). abs(), float(), int(), and string functions; str.lower(), and str.upper()
 
 ##### python map functions ####
 
